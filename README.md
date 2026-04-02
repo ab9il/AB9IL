@@ -2,19 +2,15 @@
 
 Here is where I keep the core of my large and small computing projects.
 
-- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for global and borderless access to over the air broadcast media.
-- 🔭 I’m currently working on [Catbird Linux], a bootable live Linux environment for content creation, web scraping, data analysis, writing, and note taking.
-- 🔭 I’m currently working on [MOFO Linux], a bootable live Linux environment for global and borderless access to multimedia, forums, and cypher spaces.
+- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for anonymous, global, and borderless access to over the air broadcast media.
+- 🔭 I’m currently working on [Catbird Linux], a bootable live Linux environment for deshittified general purpose computing. That means content creation, web scraping, data analysis, writing, and note taking.
+- 🔭 I’m currently working on [MOFO Linux], a bootable live Linux environment for anonymous, global, and borderless access to multimedia, forums, and cypher spaces.
 - 🔭 I’m currently creating written content for [AB9IL.net] and videos for [Mach 7 Radio Intercepts].
 - 👯 I am writing about [KiwiSDR for online shortwave radio], [RTL-SDRs for airband radio], plus [defeating censorship and information warfare].
 
 Video - Skywave Linux 5 - Rolling Debian Sid - Linux for SWLs and Hams:
 
 [![Skywave Linux 5.0 - Rolling Debian Sid - Linux for SWLs and Hams](screenshot_youtube_4.png)](https://youtu.be/odTHnpM9Srg "Skywave Linux 5.0 - Rolling Debian Sid - Linux for SWLs and Hams")
-
-Video - Skywave Linux 4.4 - i3 and SDRs Galore:
-
-[![Skywave Linux 4.4 - i3 and SDRs Galore](screenshot_youtube_3.png)](https://youtu.be/vwECMCEcDh8 "Skywave Linux 4.4 - i3 and SDRs Galore")
 
 
 <br />
