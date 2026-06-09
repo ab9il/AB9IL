@@ -23,5 +23,5 @@ Video - Skywave Linux 5 - Rolling Debian Sid - Linux for SWLs and Hams:
 [RTL-SDRs for airband radio]: skywavelinux.com/book02/
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://catbirdlinux.com
-[MOFO Linux]: https://mofolinux.com
+[MOFO Linux]: https://sourceforge.net/projects/mofolinux/
 [Trumpist seditionists]: https://odysee.com/@Mach7RadioIntercepts:1/january-6-a-coup-unpunished-is-called:2
