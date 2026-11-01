@@ -15,11 +15,11 @@ Here is where I keep the core of my large and small computing projects.
 <br />
 
 [AB9IL.net]: https://www.ab9il.net
-[Atomic Linux]: https://www.ab9il.net/book11/
+[Atomic Linux]: https://skywavelinux.com/atomic-linux.html
 [Mach 7 Radio Intercepts]: https://youtube.com/user/AB9IL
-[KiwiSDR for online shortwave radio]: https://skywavelinux.com/book07/
-[WebSDR for online shortwave radio]: https://www.ab9il.net/book10/
-[RTL-SDRs for airband radio]: https://skywavelinux.com/book02/
+[KiwiSDR for online shortwave radio]: https://www.amazon.com/dp/B0BG9FQT8D/
+[WebSDR for online shortwave radio]: https://www.amazon.com/dp/B0D2RB53T8/
+[RTL-SDRs for airband radio]: https://skywavelinux.com/airband-intercepts.html
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://github.com/ab9il/catbirdlinux
 [MOFO Linux]: https://sourceforge.net/projects/mofolinux/
