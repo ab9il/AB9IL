@@ -2,13 +2,15 @@
 
 Here is where I keep the core of my large and small computing projects.
 
-- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for anonymous, global, and borderless access to over the air broadcast media.
 - 🔭 I’m currently rebuilding [Catbird Linux] as an image based / atomic system, a Linux environment for deshittified and frictionless general purpose computing. That means content creation, web scraping, data analysis, writing, and note taking.
-- 🔭 I’m currently working on [MOFO Linux], a bootable live Linux environment for anonymous, global, and borderless access to multimedia, forums, and cypher spaces.
+
+[![Catbird Linux - Atomic - Bluefin opinionated for frictionless general purpose computing](catbirdlinux-v4.jpg)](https://github.com/ab9il/catbirdlinux "Catbird Linux - Atomic - Bluefin opinionated for frictionless general purpose computing")
+
+- 🔭 I’m currently working on [Skywave Linux], a bootable live Linux environment for anonymous, global, and borderless access to over the air broadcast media. A new, image based / atomic system, is in the works. I'll post a link here when it is ready.
 - 🔭 I’m currently creating written content for [AB9IL.net] and videos for [Mach 7 Radio Intercepts].
 - 👯 I am writing about [Atomic Linux], [KiwiSDR for online shortwave radio], [WebSDR for online shortwave radio], and [RTL-SDRs for airband radio].
 
-[![Catbird Linux - Atomic - Bluefin opinionated for frictionless general purpose computing](catbirdlinux-v4.jpg)](https://github.com/ab9il/catbirdlinux "Catbird Linux - Atomic - Bluefin opinionated for frictionless general purpose computing")
+
 
 
 <br />
@@ -22,4 +24,3 @@ Here is where I keep the core of my large and small computing projects.
 [RTL-SDRs for airband radio]: https://skywavelinux.com/airband-intercepts.html
 [Skywave Linux]: https://skywavelinux.com
 [Catbird Linux]: https://github.com/ab9il/catbirdlinux
-[MOFO Linux]: https://sourceforge.net/projects/mofolinux/
